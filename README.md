@@ -34,11 +34,12 @@
 - https://himself.wordpress.com/2014/07/21/realtek-rtl8192cu/
 > RTL8192CU RealTek drivers, version 2.0.1
 > http://www.realtek.com.tw/downloads/downloadsView.aspx?Langid=1&PNid=21&PFid=48&Level=5&Conn=4&ProdID=277&DownTypeID=3&GetDown=false&Downloads=true
+ - 0001-Wlan_11n_USB_MacOS10.8_Driver_UI_2.0.1.zip
 > current to 2012 october.
 - http://www.hackintoshosx.com/files/download/515-rtl8192cu/
-> Wlan_11n_USB_MacOS10.8_Driver_UI_2.0.1.zip
+ - Wlan_11n_USB_MacOS10.8_Driver_UI_2.0.1.zip
 - http://www.hackintoshosx.com/files/download/4331-tp-link-tl-wn723n-v3-tl-wn725n-v2-usb-wifi/
-> 3in1_Wlan_11n_USB_MacOS10.9_Driver_83.28.08_UI_2.0.2.zip
-> 4in1_Wlan_11n_USB_MacOS10.10_MacOS10.9_Driver_83.29.12.03_UI_2.3.1.zip
+ - 3in1_Wlan_11n_USB_MacOS10.9_Driver_83.28.08_UI_2.0.2.zip
+ - 4in1_Wlan_11n_USB_MacOS10.10_MacOS10.9_Driver_83.29.12.03_UI_2.3.1.zip
 
 - http://www.hackintosh.zone/get-files/file/581-tp-link-tl-wn723n-v3-tl-wn725n-v2-usb-wifi-wnu-202231/
